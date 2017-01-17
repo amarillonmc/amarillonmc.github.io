@@ -1,2 +1,4 @@
   name: "设定皆传·大逃杀篇"	
   markdown: kramdown
+
+theme: jekyll-theme-architect

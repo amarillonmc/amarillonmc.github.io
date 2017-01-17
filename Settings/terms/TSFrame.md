@@ -52,3 +52,5 @@ title: "时空帧"
 
 
 目前，时空帧的记述方式是一个十六进制数字。
+
+返回[设定主页](https://amarillonmc.github.io/Settings/)。

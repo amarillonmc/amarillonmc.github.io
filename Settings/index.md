@@ -121,4 +121,4 @@ GA-01的秘书役，时空特使真正的大脑。
 * [时空帧（TS Frame）](/terms/TSFrame.md)
 * [时空特使（Chrono Agents）](/terms/ChronoAgent.md)
 * 佣兵组织『红杀』（Crimson Swear）
-* 能力
+* [能力](/terms/Abilities.md)

@@ -55,7 +55,7 @@ title: "大逃杀设定"
 
 GA-01的秘书役，时空特使真正的大脑。
 
-* [GA-04 亚玛丽欧·维拉蒂安 （Amarillo Viridian）](chara/ga-04.md)
+* [GA-04 亚玛丽欧·维拉蒂安 （Amarillo Viridian）](chara/ga04.md)
 
 负责虚拟幻境·大逃杀事件的其中一人。是个温柔的调停师。爱好是说教和废物回收。
 

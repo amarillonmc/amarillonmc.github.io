@@ -23,7 +23,7 @@ title: "大逃杀设定"
 
 名为『红杀』（Crimson Swear）的佣兵组织。被前·林氏工业CEO『林无月』雇佣保护时空幻境·大逃杀。林无月的死亡后，被黑幕背叛。
 
-* 红杀将军 红暮（Crimson）
+* [红杀将军 红暮（Crimson）](chara/crimson.md)
 
 红杀组织的现最高领导人，女强人。表面上是猎头公司『金龙通讯社』的大老板（BOSS）金海鸣，实际上率领着红杀组织，同时活跃在湾城的表里界。
 
@@ -55,7 +55,7 @@ title: "大逃杀设定"
 
 GA-01的秘书役，时空特使真正的大脑。
 
-* GA-04 亚玛丽欧·维拉蒂安 （Amarillo Viridian）
+* [GA-04 亚玛丽欧·维拉蒂安 （Amarillo Viridian）](chara/ga04.md)
 
 负责虚拟幻境·大逃杀事件的其中一人。是个温柔的调停师。爱好是说教和废物回收。
 
@@ -70,10 +70,6 @@ GA-01的秘书役，时空特使真正的大脑。
 * GA-12 亦心
 
 时空特使属下的记忆修补师。
-
-* GA-37 单千铃
-
-有着强力战场运的激进人物。
 
 * GA-42 赛凡（Sypher）
 
@@ -103,12 +99,12 @@ GA-01的秘书役，时空特使真正的大脑。
 
 以离本故事发生地有2小时车程的另外一个城市『岳城』为中心的私人特战队伍。因为6年前的一次事故被迫解散，但是其残留的孽缘导致了现在的重新建立。
 
-* 『迅雷』（Thunder）
-* 『贝尔』（Belle）
-* 『鲈鱼』（Maso）
-* 『明星』（Nank）
-* 『雷鸣』（Steppe）
-* 『亮亮』（Shiny）
+* [『迅雷』（Thunder）](chara/thunder.md)
+* [『贝尔』（Belle）](chara/belle.md)
+* [『鲈鱼』（Maso）](chara/maso.md)
+* [『明星』（Nank）](chara/nank.md)
+* [『雷鸣』（Steppe）](chara/steppe.md)
+* [『亮亮』（Shiny）](chara/shiny.md)
 * 『闲人』（Screws）
 
 ### 版权人物
@@ -121,7 +117,8 @@ GA-01的秘书役，时空特使真正的大脑。
 这里记录本企划中用到的用语。点击链接可以进入详细的介绍页面。
 
 * 虚拟幻境·大逃杀
+* [大逃杀世界观·时间线](/terms/TimelineDTS.md)
 * [时空帧（TS Frame）](/terms/TSFrame.md)
 * [时空特使（Chrono Agents）](/terms/ChronoAgent.md)
-* 佣兵组织『红杀』（Crimson Swear）
+* [佣兵组织『红杀』（Crimson Swear）](/terms/CrimsonSwear.md)
 * [能力](/terms/Abilities.md)

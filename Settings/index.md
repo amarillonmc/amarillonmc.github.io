@@ -118,6 +118,7 @@ GA-01的秘书役，时空特使真正的大脑。
 
 * 虚拟幻境·大逃杀
 * [大逃杀世界观·时间线](/terms/TimelineDTS.md)
+* [大逃杀技术用语](/terms/termsDTS.md)
 * [时空帧（TS Frame）](/terms/TSFrame.md)
 * [时空特使（Chrono Agents）](/terms/ChronoAgent.md)
 * [佣兵组织『红杀』（Crimson Swear）](/terms/CrimsonSwear.md)

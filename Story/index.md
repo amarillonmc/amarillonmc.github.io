@@ -33,11 +33,12 @@ title: "大逃杀故事"
 
 知道大事不妙的红暮联系到了时空特使……同时也开始了自己的打算。
 
-* [雏菊之始 之章](http://www.acfun.cn/a/ac617335)
-* [苍蓝之心 之章](http://www.acfun.cn/a/ac751803)
-* [终末之始 之章](http://www.acfun.cn/a/ac1936335)
-* Ｉｎｔｅｒｍｅｚｚｏ 之章
+* [雏菊之始 之章](/Alter/Ch01.md)
+* [苍蓝之心 之章](/Alter/Ch02.md)
+* [终末之始 之章](/Alter/Ch03.md)
+* [Ｉｎｔｅｒｍｅｚｚｏ 之章](/Alter/Ch04.md)
 * 未来之炬 之章
+* 浮上之暗 之章
 * NOW PRINTING
 
 # Elite Force ～花与泪与雨与雪～

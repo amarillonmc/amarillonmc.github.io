@@ -21,7 +21,7 @@ title: "大逃杀故事"
 高二生ZERO在其同学上野 伊莉嘉的怂恿下，决定和其一起调查将要转学到自己班级上的神秘转学生……
 
 * [其之一](/Alter/Ch01.md)
-* NOW PRINTING
+* [其之二](/Alter/Ch02.md)
 * NOW PRINTING
 
 # 里传

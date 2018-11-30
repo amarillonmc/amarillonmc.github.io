@@ -1,0 +1,70 @@
+<div>
+	
+<div class='menu_item menu_close' style='float:right;margin-right:20px'><img src='data/others/plugin/theme_tyrano_05/image/system/menu_button_close.png' /></div>
+<div style='clear:both'></div>
+
+<div class="area_save_list" style="margin-top:50px;overflow:auto">
+	
+	<ul class='save_list'>
+		{{for array_save}}
+			<li class='save_display_area save_list_item' data-num='{{:num}}'>
+				
+				<span class='save_list_item_thumb'>
+				{{if img_data != ""}}
+					<img src="{{:img_data}}">
+				{{/if}}
+				</span>
+				
+				<span class='save_list_item_area'>
+					<span class='save_list_item_date'>{{:save_date}}</span>
+					<span class='save_list_item_text'>{{:title}}</span>
+				</span>
+			</li>
+		{{/for}}
+	</ul>
+
+</div>
+
+	<img src='data/others/plugin/theme_tyrano_05/image/system/bg_base.jpg' style='z-index:-1;left:0;top:0;width:100%;height:100%;position:absolute;'>
+	<img src='data/others/plugin/theme_tyrano_05/image/system/bg_load.png' style='z-index:-1;left:0;top:0;width:100%;height:100%;position:absolute;'>
+
+	<script>
+	setTimeout(function(){
+		var save_list_height = parseInt($(".tyrano_base").outerHeight()) - parseInt($(".save_list").get(0).offsetTop) ;
+		$(".area_save_list").css("height",save_list_height-30);
+	},30);
+	</script>
+	
+	<style>
+	
+	/*両方共通（はみ出したらスクロールさせる）*/
+		.area_save_list::-webkit-scrollbar{ 
+		    width: 15px;
+		}
+		.area_save_list::-webkit-scrollbar-thumb{ 
+		    background: #333333;
+		    border-radius: 10px;
+		}
+		.area_save_list::-webkit-scrollbar-track-piece:start{
+		    background: gray;
+		}
+		.area_save_list::-webkit-scrollbar-track-piece:end{
+		    background: #fff;
+		}
+	</style>
+<script >
+	
+	var tmp_src = "";
+	$(".menu_item").hover(function(){
+		tmp_src = $(this).find("img").attr("src");
+		var img_src = tmp_src.replace(".gif","2.gif").replace(".png","2.png");
+		$(this).find("img").attr("src",img_src);
+	},
+	function(){
+		//もとにもどす
+		$(this).find("img").attr("src",tmp_src);
+	});
+	
+</script>
+
+</div>

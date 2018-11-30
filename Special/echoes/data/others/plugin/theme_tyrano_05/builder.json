@@ -1,0 +1,17 @@
+{
+    "name":{
+    
+        "ja":"ティラノブラウン",
+        "en":"TyranoBrown"
+    },
+    "pm":{
+        "font_color":"0xD5C893", 
+        "name_color":"0xECDEA4",  
+        "frame_opacity":255  
+    },
+    "glink":"theme_tyrano_05",
+    "pro":0,
+    "width":960,
+    "height":640
+    
+}

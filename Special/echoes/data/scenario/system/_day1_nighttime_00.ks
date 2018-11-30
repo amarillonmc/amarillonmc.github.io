@@ -1,0 +1,7 @@
+[preload  storage="./data/bgimage/sdniti015n_19201080.jpg"  ]
+[preload  storage="./data/bgimage/sdniti014n_19201080.jpg"  ]
+[preload  storage="./data/bgimage/sdniti020n_19201080.jpg"  ]
+[preload  storage="./data/bgimage/sdniti017n_19201080.jpg"  ]
+[preload  storage="./data/bgimage/sdniti018n_19201080.jpg"  ]
+[preload  storage="./data/bgimage/sdniti018n2_19201080.jpg"  ]
+[return]

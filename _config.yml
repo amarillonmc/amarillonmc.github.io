@@ -3,3 +3,5 @@
 
   theme: jekyll-theme-architect
   description: "大逃杀故事文以及设定置放"
+  
+  include: *.ks

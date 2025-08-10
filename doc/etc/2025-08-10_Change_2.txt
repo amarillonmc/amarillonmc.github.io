@@ -1,0 +1,4 @@
+2025-08-10
+更新：Settings/index.md —— 『闲人』（Screws）加入“新招募成员们”表格的链接，指向 chara/screws.md。
+扩展：Settings/chara/screws.md —— 补充人物性格形成背景与父亲/舅舅为何成为网红的设定说明，维持无“故事中历史”段落。
+

@@ -89,7 +89,7 @@ title: "大逃杀设定"
 
 【新招募成员们】
 
-| [『雷鸣』（Steppe）](chara/steppe.md)  | [『亮亮』（Shiny）](chara/shiny.md) | 『闲人』（Screws）|
+| [『雷鸣』（Steppe）](chara/steppe.md)  | [『亮亮』（Shiny）](chara/shiny.md) | [『闲人』（Screws）](chara/screws.md) |
 | ------------- | ------------- | ------------- |
 | <img src="https://res.dts.gay/images/photocard/unphoto.png" alt="photo" width="200"> | <img src="https://res.dts.gay/images/photocard/unphoto.png" alt="photo" width="200"> | <img src="https://res.dts.gay/images/photocard/unphoto.png" alt="photo" width="200"> |
 | 人肉点奏机 | 超活跃辣妹 | 薛定谔大小姐

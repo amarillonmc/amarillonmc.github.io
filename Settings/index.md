@@ -47,7 +47,7 @@ title: "大逃杀设定"
 | <img src="https://res.dts.gay/images/photocard/unphoto.png" alt="photo" width="200"><br/>GA-42 赛凡（Sypher）  | 通称『电子道士』。是能够将程序代码写在符纸上然后贴在其他事物上改变其属性的奇妙能力者。  |
 | <img src="https://res.dts.gay/images/photocard/unphoto.png" alt="photo" width="200"><br/>Quartermaster  | 通称Quartermaster（军械管理人）的光头中年男性。顾名思义为时空特使提供着武器和装备的维护以及制造和改装。对本次的事件有一定的兴趣，原因不明。  |
 | <img src="https://res.dts.gay/images/photocard/gothicphoto.png" alt="photo" width="200"><br/>GA-43 Gothic  | 代号为『Gothic』的时空特使特工。应红暮召唤而来。  |
-| <img src="https://res.dts.gay/images/photocard/ga74photo.png" alt="photo" width="200"><br/>GA-56 Hyper  | 林苍月越权从总部派出的超能力者之一，有着被称作「守家巨炮」的将情感转换为能量的超能力。  |
+| <img src="https://res.dts.gay/images/photocard/ga74photo.png" alt="photo" width="200"><br/>[GA-56 Hyper](chara/ga56.md)  | 林苍月越权从总部派出的超能力者之一，有着被称作「守家巨炮」的将情感转换为能量的超能力。  |
 | <img src="https://res.dts.gay/images/photocard/ga77photo.png" alt="photo" width="200"><br/>GA-77 Jackpot  | 林苍月越权从总部派出的超能力者之一，有着被称作「抓取」的通过了解他人而变身成其外表并获得其性格的超能力。  |
 
 

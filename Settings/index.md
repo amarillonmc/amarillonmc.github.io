@@ -46,9 +46,9 @@ title: "大逃杀设定"
 | <img src="https://res.dts.gay/images/photocard/ga00photo.png" alt="photo" width="200"><br/>GA-00 林苍月（Pale Moon）  | 时空特使GA计划的第一个产物，一直我行我素的叛逆者。这次一样出于玩笑般的心情为亚玛丽欧提供帮助。  |
 | <img src="https://res.dts.gay/images/photocard/unphoto.png" alt="photo" width="200"><br/>GA-42 赛凡（Sypher）  | 通称『电子道士』。是能够将程序代码写在符纸上然后贴在其他事物上改变其属性的奇妙能力者。  |
 | <img src="https://res.dts.gay/images/photocard/unphoto.png" alt="photo" width="200"><br/>Quartermaster  | 通称Quartermaster（军械管理人）的光头中年男性。顾名思义为时空特使提供着武器和装备的维护以及制造和改装。对本次的事件有一定的兴趣，原因不明。  |
-| <img src="https://res.dts.gay/images/photocard/gothicphoto.png" alt="photo" width="200"><br/>GA-43 Gothic  | 代号为『Gothic』的时空特使特工。应红暮召唤而来。  |
+| <img src="https://res.dts.gay/images/photocard/gothicphoto.png" alt="photo" width="200"><br/>[GA-43 Gothic](chara/ga43.md)  | 代号为『Gothic』的时空特使特工。应红暮召唤而来。  |
 | <img src="https://res.dts.gay/images/photocard/ga74photo.png" alt="photo" width="200"><br/>[GA-56 Hyper](chara/ga56.md)  | 林苍月越权从总部派出的超能力者之一，有着被称作「守家巨炮」的将情感转换为能量的超能力。  |
-| <img src="https://res.dts.gay/images/photocard/ga77photo.png" alt="photo" width="200"><br/>GA-77 Jackpot  | 林苍月越权从总部派出的超能力者之一，有着被称作「抓取」的通过了解他人而变身成其外表并获得其性格的超能力。  |
+| <img src="https://res.dts.gay/images/photocard/ga77photo.png" alt="photo" width="200"><br/>[GA-77 Jackpot](chara/ga77.md)  | 林苍月越权从总部派出的超能力者之一，有着被称作「抓取」的通过了解他人而变身成其外表并获得其性格的超能力。  |
 
 
 ## 敌方人物
@@ -100,7 +100,7 @@ title: "大逃杀设定"
 
 | 名称  | 简介 |
 | ------------- | ------------- |
-| <img src="https://res.dts.gay/images/photocard/ricophoto.png" alt="photo" width="200"><br/>瑞克·拉玛尔 | 最近在湾城以及岳城的夜晚出现，从高空华丽地落下并和坏蛋们作战的义警。详细信息不明。 |
+| <img src="https://res.dts.gay/images/photocard/ricophoto.png" alt="photo" width="200"><br/>[瑞克·拉玛尔](chara/rico.md) | 最近在湾城以及岳城的夜晚出现，从高空华丽地落下并和坏蛋们作战的义警。详细信息不明。 |
 | <img src="https://res.dts.gay/images/photocard/115photo.png" alt="photo" width="200"><br/>115 | 真名Marylin McLaughing，异国的网红主播，因幼年同学所托加需要躲某些事件回到东之国，为DTS虚拟幻境进行直播。是一位身材极好的张扬女性，一说其ID 115 其实是指胸围。 |
 | <img src="https://res.dts.gay/images/photocard/redaiphoto.png" alt="photo" width="200"><br/>埃尔文·露比 | 自称「种火」，和下面那位一起出现在参加过DTS的玩家的梦境，以及某些匿名讨论区的奇特存在，似乎比较能吐槽。是最近流行的都市幻想之一。 |
 | <img src="https://res.dts.gay/images/photocard/blueaiphoto.png" alt="photo" width="200"><br/>保琳·斯诺 | 自称「种火」，和上面那位一起出现在参加过DTS的玩家的梦境，以及某些匿名讨论区的奇特存在，似乎比较能装傻。是最近流行的都市幻想之一。 |

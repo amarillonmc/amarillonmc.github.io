@@ -22,6 +22,8 @@ title: "大逃杀故事"
 
 * [其之一](/Alter/Ch01.md)
 * [其之二](/Alter/Ch02.md)
+* [其之三](/Alter/Ch03.md)
+* [其之四](/Alter/Ch04.md)
 * NOW PRINTING
 
 # 里传

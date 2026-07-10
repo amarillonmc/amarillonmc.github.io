@@ -42,9 +42,9 @@ title: "大逃杀设定"
 | <img src="https://res.dts.gay/images/photocard/ga01photo.png" alt="photo" width="200"><br/>GA-01 林仙凤 （Fairy Phoenix）  | 时空特使的司令役。领导力似乎很薄弱然而并不影响她的地位。令下属头疼的存在。  |
 | <img src="https://res.dts.gay/images/photocard/ga02photo.png" alt="photo" width="200"><br/>GA-02 林彩光 （Rainbow Spark）  | GA-01的秘书役，时空特使真正的大脑。  |
 | <img src="https://res.dts.gay/images/photocard/amarillophoto.png" alt="photo" width="200"><br/>[GA-04 亚玛丽欧·维拉蒂安 （Amarillo Viridian）](chara/ga04.md)  | 负责虚拟幻境·大逃杀事件的其中一人。是个温柔的调停师。爱好是说教和废物回收。   |
-| <img src="https://res.dts.gay/images/photocard/ga05photo.png" alt="photo" width="200"><br/>GA-05 林天星 （Heavenly Star）  | 不带大脑行动的热血行动家，亚玛丽欧的助力人，最近已和亚玛丽欧及林苍月会合，同时作为时空特使二部活动，处理该事件。 |
-| <img src="https://res.dts.gay/images/photocard/ga00photo.png" alt="photo" width="200"><br/>GA-00 林苍月（Pale Moon）  | 时空特使GA计划的第一个产物，一直我行我素的叛逆者。这次一样出于玩笑般的心情为亚玛丽欧提供帮助。  |
-| <img src="https://res.dts.gay/images/photocard/unphoto.png" alt="photo" width="200"><br/>GA-42 赛凡（Sypher）  | 通称『电子道士』。是能够将程序代码写在符纸上然后贴在其他事物上改变其属性的奇妙能力者。  |
+| <img src="https://res.dts.gay/images/photocard/ga05photo.png" alt="photo" width="200"><br/>[GA-05 林天星 （Heavenly Star）](chara/ga05.md)  | 不喜欢带大脑行动的热血行动家，亚玛丽欧的助力人，最近已和亚玛丽欧及林苍月会合，同时作为时空特使二部活动，处理该事件。 |
+| <img src="https://res.dts.gay/images/photocard/ga00photo.png" alt="photo" width="200"><br/>[GA-00 林苍月（Pale Moon）](chara/ga00.md)  | 时空特使GA计划的第一个产物，一直我行我素的叛逆者。这次一样出于玩笑般的心情为亚玛丽欧提供帮助。  |
+| <img src="https://res.dts.gay/images/photocard/unphoto.png" alt="photo" width="200"><br/>[GA-42 赛凡（Sypher）](chara/ga42.md)  | 通称『电子道士』。是能够将程序代码写在符纸上然后贴在其他事物上改变其属性的奇妙能力者。  |
 | <img src="https://res.dts.gay/images/photocard/unphoto.png" alt="photo" width="200"><br/>Quartermaster  | 通称Quartermaster（军械管理人）的光头中年男性。顾名思义为时空特使提供着武器和装备的维护以及制造和改装。对本次的事件有一定的兴趣，原因不明。  |
 | <img src="https://res.dts.gay/images/photocard/gothicphoto.png" alt="photo" width="200"><br/>[GA-43 Gothic](chara/ga43.md)  | 代号为『Gothic』的时空特使特工。应红暮召唤而来。  |
 | <img src="https://res.dts.gay/images/photocard/ga74photo.png" alt="photo" width="200"><br/>[GA-56 Hyper](chara/ga56.md)  | 林苍月越权从总部派出的超能力者之一，有着被称作「守家巨炮」的将情感转换为能量的超能力。  |
